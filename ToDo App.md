@@ -1,4 +1,4 @@
-### ToDo App Firebase Integration
+## ToDo App Firebase Integration
 
 ## OverView
 This is a To-Do app that leverages Firebase services to provide a seamless user experience for task management. Users can sign up, log in, and manage their tasks efficiently with real-time updates and dynamic UI features.
