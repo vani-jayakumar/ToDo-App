@@ -1,7 +1,7 @@
 ## ToDo App Firebase Integration
 
 ## OverView
-This is a To-Do app that leverages Firebase services to provide a seamless user experience for task management. Users can sign up, log in, and manage their tasks efficiently with real-time updates and dynamic UI features.
+This is a To-Do app that uses Firebase services to provide a seamless user experience for task management. Users can sign up, log in, and manage their tasks efficiently with real-time updates and dynamic UI features.
 
 
 ## Features
@@ -13,7 +13,7 @@ This app uses **Firebase Authentication** to handle user sign-up and login. User
 - **Login**: Users can log in to their accounts using their credentials.
 
  ### Firebase Analytics
-**Firebase Analytics** is integrated to track user engagement and behavior during the sign-up and login processes. This feature provides insights into user activity, allowing for data-driven improvements.
+**Firebase Analytics** is integrated to track user activity of the sign-up and login processes. This feature provides insights into user behaviour, allowing for data-driven improvements.
 
 - **User Events**: Track sign-up and login events to analyze user engagement and retention.
 
